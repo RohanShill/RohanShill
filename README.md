@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RohanShill
 - 👀 I’m interested in ...Programing
-- 🌱 I’m currently learning ...C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on WebDev
+- 📫 How to reach me 
 
 <!---
 RohanShill/RohanShill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
